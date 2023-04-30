@@ -1,11 +1,22 @@
+About perl-sub-name-feedstock
+=============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/perl-sub-name-feedstock/blob/main/LICENSE.txt)
+
 About perl-sub-name
-===================
+-------------------
 
 Home: https://github.com/p5sagit/Sub-Name
 
 Package license: GPL-1.0-or-later OR Artistic-1.0-Perl
 
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/perl-sub-name-feedstock/blob/main/LICENSE.txt)
+Summary: (Re)name a sub
+About perl-sub-name
+-------------------
+
+Home: https://github.com/p5sagit/Sub-Name
+
+Package license: GPL-1.0-or-later OR Artistic-1.0-Perl
 
 Summary: (Re)name a sub
 
